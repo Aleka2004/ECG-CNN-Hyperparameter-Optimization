@@ -1,6 +1,6 @@
 # ЭКГ сигналдарын CNN арқылы жіктеу және гиперпараметрлерді оңтайландыру
 
-**№2 СӨЖ.** Python, Keras, Scikit-learn; Grid Search vs Random Search.
+ Python, Keras, Scikit-learn; Grid Search vs Random Search.
 
 ## Іске қосу
 1. `ECG_CNN_Grid_Random_Search_KZ.ipynb` файлын [Google Colab](https://colab.research.google.com/) арқылы ашыңыз.
