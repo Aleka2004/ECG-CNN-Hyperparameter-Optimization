@@ -11,5 +11,4 @@
 **Ескерту:** мұнда есептеусіз ойдан құрастырылған нәтижелер жоқ. 8 Grid Search және 8 Random Search конфигурациясы оқытылады.
 
 ## Дереккөз
-- [ECG Heartbeat Categorization Data Science Project — Abdallah Ibraheem](https://www.kaggle.com/code/abdallahibraheem19/ecg-heartbeat-categorization-data-science-project) — тақырыптық шабыт көзі, код көшірілмеген.
-- [MIT-BIH Heartbeat Categorization](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) — деректер жиыны.
+- [MIT-BIH Heartbeat Categorization](https://www.kaggle.com/datasetsе/shayanfazeli/heartbeat) — деректер жиыны.
